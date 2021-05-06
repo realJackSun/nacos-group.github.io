@@ -4,6 +4,13 @@ export default {
     postsTitle: 'All posts',
     list: [
         {
+            title: 'Nacos 2.0.1 + 1.4.2 Release!',
+            author: '@涌月',
+            dateStr: 'May 10, 2021',
+            desc: 'Nacos 2.0.1 + 1.4.2 Release!',
+            link: '/en-us/blog/2.0.1-release.html',
+        },
+        {
             title: 'Suggestions for fixing Nacos authentication vulnerability',
             author: '@席翁',
             dateStr: 'Jan 15, 2021',
@@ -223,6 +230,13 @@ export default {
     barText: '博客',
     postsTitle: '所有文章',
     list: [
+        {
+            title: 'Nacos 2.0.1 + 1.4.2 发布!',
+            author: '@涌月',
+            dateStr: 'May 10, 2021',
+            desc: 'Nacos 2.0.1 + 1.4.2 发布!',
+            link: '/zh-cn/blog/2.0.1-release.html',
+        },
         {
             title: '关于Nacos身份验证漏洞修复建议',
             author: '@席翁',
